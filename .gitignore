@@ -4,3 +4,5 @@ whats-cooking/.Rhistory
 whats-cooking/.RData
 
 venv/*
+
+whats-cooking/venv/*
