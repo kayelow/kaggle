@@ -6,3 +6,4 @@ whats-cooking/.RData
 venv/*
 
 whats-cooking/venv/*
+*.ipynb
